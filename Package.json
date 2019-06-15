@@ -1,0 +1,12 @@
+{
+  "name": "Broadcast",
+  "description": "Discord Private Server Bot",
+  "version": "1.0",
+  "main": "Broadcast.js",
+  "scripts": {
+    "start": "node Broadcast.js"
+  }
+  "dependencies": {
+    "discord.js": "11.1.0",
+  }
+} 
